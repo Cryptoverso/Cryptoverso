@@ -12,7 +12,7 @@
 
 ---
 
-## Skills Code: 🏋🏽
+## Skills Code:
 
 <table>
   <tr>
@@ -44,7 +44,7 @@
 </table>
 
 
-## Contact: 👀
+## Contact:
 <div align="center"> 
 <a href="https://api.whatsapp.com/send?phone=5511983066335" target="_blank"><img align="center" alt="wpp" height="40" width="40" src="https://www.svgrepo.com/show/452133/whatsapp.svg"></a>
 <a href="mailto:contact@coinnodes.tech" target="_blank"><img align="center" alt="email" height="40" width="40" src="https://www.svgrepo.com/show/452213/gmail.svg"></a>
@@ -52,8 +52,6 @@
 <a href="https://www.instagram.com/coin.nodes/" target="_blank"><img align="center" alt="insta" height="40" width="40" src="https://user-images.githubusercontent.com/52077278/135925755-413332a2-0141-4a84-bf74-8fbc05f02734.png"></a>
 <br>
 </div><br>
-
----
 
 <!-- GIF Animation Footer -->
 <div align="center">
