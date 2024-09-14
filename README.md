@@ -29,6 +29,14 @@
        <br>Rust</br>
     </td>
     <td align="center" width="96">
+       <a href="kubernetes" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/> </a>
+       <br>Kubernetes</br>
+    </td>
+    <td align="center" width="96">
+       <a href="terraform" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/> </a>
+       <br>Terraform</br>
+    </td>
+    <td align="center" width="96">
        <a href="nodejs" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" alt="nodejs" width="40" height="40"/> </a>
        <br>NodeJs</br>
     </td>
@@ -42,6 +50,7 @@
     </td>
   </tr>
 </table>
+
 
 
 ## Contact:
