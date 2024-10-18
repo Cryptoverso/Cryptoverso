@@ -3,7 +3,7 @@
   <img src="./waves.gif" alt="Profile Header" style="width: 100%; height: 30px; width: 800px">
 </div>
 
-### Hello, how are you? My name is Guilherme (Cryptoverso). I have been a professional in the Financial and Technological market for over 6 years, focusing especially on the Cryptoassets market. We started this journey at 16 years old as an operator and programmer and with some years of experience in investment funds and Fintech, we founded [Coin Nodes Org](coinnodes.tech) where we provide several services and external solutions for this market! These are some of our services: - Cryptoasset Payment Solutions for Funds and Operators;
+### Hello, i am Cryptoverso. I have been a professional in the Financial and Technological market for over 6 years, focusing especially on the Cryptoassets market. We started this journey at 16 years old as an operator and programmer and with some years of experience in investment funds and Fintech, we founded [Coin Nodes Org](coinnodes.tech) where we provide several services and external solutions for this market! These are some of our services: - Cryptoasset Payment Solutions for Funds and Operators;
 - OTC and Exchange Desk for Fiat Currencies and Cryptoassets;
 - Market-Maker Robots to settle for crypto multi-exchanges;
 - Tokenization of Assets and Goods;
