@@ -3,13 +3,11 @@
   <img src="./waves.gif" alt="Profile Header" style="width: 100%; height: 30px; width: 800px">
 </div>
 
-### Olá, tudo bem? Me chamo Guilherme (Cryptoverso). Profissional do mercado Financeiro e Tecnológico a mais de 6 anos, voltado especialmente para o mercado de Cryptoativos. Iniciei essa jornada com 16 anos como operador e programador e com alguns anos de experiência em fundos de investimentos e Fintech, fundei a [Coin Nodes Org](coinnodes.tech) onde fornecemos diversos serviços e soluções voltada para esse mercado! Esses são alguns de nossos serviços: 
- - Soluções de Pagamentos de Criptoativos para Fundos e Operadores; 
- - Mesa OTC e Exchange para Moedas Fiduciárias e Criptoativos;
- - Robôs Market-Makers para liquiez para cripto multi-exchanges; 
- - Tokenização de Ativos e Bens; 
- - Desenvolvimento de software On-Demand;
-
+### Hello, how are you? My name is Guilherme (Cryptoverso). I have been a professional in the Financial and Technological market for over 6 years, focusing especially on the Cryptoassets market. We started this journey at 16 years old as an operator and programmer and with some years of experience in investment funds and Fintech, we founded [Coin Nodes Org](coinnodes.tech) where we provide several services and external solutions for this market! These are some of our services: - Cryptoasset Payment Solutions for Funds and Operators;
+- OTC and Exchange Desk for Fiat Currencies and Cryptoassets;
+- Market-Maker Robots to settle for crypto multi-exchanges;
+- Tokenization of Assets and Goods;
+- On-Demand Software Development;
 ---
 
 ## Skills Code:
