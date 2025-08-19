@@ -11,7 +11,7 @@ https://github.com/Cryptoverso?tab=overview&from=2025-08-01&to=2025-08-18
 </picture>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2300&pause=700&color=7C3AED&center=true&vCenter=true&width=900&height=40&lines=Infra+real+para+opera%C3%A7%C3%B5es+que+n%C3%A3o+podem+parar;Pagamentos+%E2%80%A2+OTC+%E2%80%A2+Market+Maker+%E2%80%A2+Tokeniza%C3%A7%C3%A3o" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2300&pause=700&color=7C3AED&center=true&vCenter=true&width=900&height=40&lines=Infra+real+para+opera%C3%A7%C3%B5es+que+n%C3%A3o+podem+parar;Pagamentos+%E2%80%A2+OTC+%E2%80%A2+Market+Maker+%E2%80%A2+Tokeniza%C3%A7%C3%A3o;Infra+Real+para+opera%C3%A7%C3%B5es+que+n%C3%A3o+podem+parar;Plataforma+Web+%E2%80%A2+Mobile+IOS+e+Android+%E2%80%A2+Solu%C3%A7%C3%B5es+IA;Bancos+%E2%80%A2+Financeiras+%E2%80%A2+Plataformas+de+Investimentos+%E2%80%A2+OTC;Parceiro+tecnol%C3%B3gico+que+voc%C3%AA+precisa;COIN+NODES+LTDA" alt="typing" />
   
   <!-- Quick badges -->
   <a href="https://github.com/Coin-Nodes"><img alt="Org" src="https://img.shields.io/badge/Coin%20Nodes-ORG-0ea5e9?style=for-the-badge&logo=github" /></a>
@@ -27,6 +27,13 @@ Profissional de **Mercado Financeiro** e **Tecnologia** há 6+ anos, com foco em
 ---
 
 ## 🚀 O que entregamos
+<!-- Prioriza tecnologia/softwares primeiro, conforme solicitado -->
+- **Software on-demand para sua empresa**
+- **Soluções de IA**
+- **Plataforma Web, Aplicativos iOS e Android**
+- **Especialistas em bancos, financeiras e plataformas de investimentos**
+
+**E outros produtos nossos:**
 - 💳 **Pagamentos cripto ↔ fiat** para **fundos e operadores** (on/off ramp, conciliação).
 - 🏦 **OTC & Exchange Desk** (FX/BRL, multi-venues, políticas de risco, routing).
 - 🤖 **Market-Maker Bots** (hedge, inventory, TWAP/VWAP, baixa latência).
