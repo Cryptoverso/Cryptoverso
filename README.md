@@ -22,7 +22,9 @@ https://github.com/Cryptoverso?tab=overview&from=2025-08-01&to=2025-08-18
 ---
 
 ## 👋 Sobre
-Profissional de **Mercado Financeiro** e **Tecnologia** há 6+ anos, com foco em **Criptoativos**. Comecei aos 16 como operador e dev; passei por **fundos** e **fintechs**; hoje lidero a [**Coin Nodes Org**](https://github.com/Coin-Nodes), entregando **soluções sob medida** para o ecossistema cripto.
+Profissional de **Mercado Financeiro** e **Tecnologia** há 7+ anos. Comecei aos 16 anos como operador e dev; passei por **fundos** e **fintechs**; hoje lidero a [**Coin Nodes Org**](https://github.com/Coin-Nodes), entregando **soluções sob medida** para qualquer empresa que precise de um parceiro de tecnológico. Somos especialistas em tecnologia financeiro  porém fazemos de tudo. Hoje, já entregamos mais de 30 Grandes Projetos e dentro deles mais de 10 bancos e financeiras.
+
+Coin Nodes LTDA é a Software House que sua empresa precisa para desenrolar qualquer produto. Entregamos exatamente o que você idealizar, com tecnologia de ponta , infraestrutura e IA integrada.
 
 ---
 
